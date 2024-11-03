@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "Aviara Sofa",
+        "price": 800,
+        "image": "img/1.png",
+        "description": "The Aviara Sofa combines classic styling with modern comfort, featuring plush cushioning and sustainable fabric options. Perfect for any contemporary home decor.",
+        "specifications": {
+            "dimensions": "34\" H x 82\" W x 35\" D",
+            "material": "Sustainable Fabric, Wood Frame",
+            "weight": "50 kg"
+        },
+        "reviews": [
+            {
+                "name": "Alice T.",
+                "rating": 5,
+                "comment": "Extremely comfortable and looks fantastic in my living room!"
+            },
+            {
+                "name": "Bob R.",
+                "rating": 4,
+                "comment": "Well-made sofa, but delivery was a bit delayed."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Harper Dining Table",
+        "price": 450,
+        "image": "img/2.png",
+        "description": "Elegant and spacious, the Harper Dining Table features a solid oak tabletop and metal legs, blending rustic charm with industrial flair.",
+        "specifications": {
+            "dimensions": "30\" H x 72\" W x 40\" D",
+            "material": "Oak Wood, Metal",
+            "weight": "60 kg"
+        },
+        "reviews": [
+            {
+                "name": "Sarah L.",
+                "rating": 5,
+                "comment": "Beautiful table with ample space for family dinners."
+            },
+            {
+                "name": "Daniel P.",
+                "rating": 3,
+                "comment": "Nice design, but the assembly was challenging."
+            },
+            {
+                "name": "Emma S.",
+                "rating": 4,
+                "comment": "Sturdy table, but the wood finish is prone to scratches."
+            },
+            {
+                "name": "Oliver H.",
+                "rating": 4,
+                "comment": "Looks great, but the glass surface requires frequent cleaning."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Luxe Armchair",
+        "price": 220,
+        "image": "img/3.png",
+        "description": "This cozy armchair provides ultimate comfort with plush upholstery and a stylish modern look. Available in multiple colors to fit any room decor.",
+        "specifications": {
+            "dimensions": "32\" H x 28\" W x 30\" D",
+            "material": "Upholstered Fabric, Wood Legs",
+            "weight": "18 kg"
+        },
+        "reviews": [
+            {
+                "name": "Emily J.",
+                "rating": 4,
+                "comment": "Comfortable chair, but fabric could be softer."
+            },
+            {
+                "name": "James K.",
+                "rating": 5,
+                "comment": "Great armchair! Perfect addition to my reading nook."
+            },
+            {
+                "name": "Sophia M.",
+                "rating": 5,
+                "comment": "Perfect for my book collection and looks fantastic!"
+            },
+            {
+                "name": "Liam F.",
+                "rating": 4,
+                "comment": "Sturdy and stylish, though a bit difficult to assemble."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Nova Coffee Table",
+        "price": 180,
+        "image": "img/4.png",
+        "description": "The Nova Coffee Table combines glass and steel for a sleek, minimalist look that enhances any living space. Ideal for a modern interior aesthetic.",
+        "specifications": {
+            "dimensions": "18\" H x 40\" W x 24\" D",
+            "material": "Glass, Steel",
+            "weight": "20 kg"
+        },
+        "reviews": [
+            {
+                "name": "Oliver H.",
+                "rating": 4,
+                "comment": "Looks great, but the glass surface requires frequent cleaning."
+            },
+            {
+                "name": "Mia W.",
+                "rating": 5,
+                "comment": "Sleek and modern! Fits perfectly with my decor."
+            },
+            {
+                "name": "Ethan S.",
+                "rating": 3,
+                "comment": "Stylish table, but the glass is not very durable."
+            },
+            {
+                "name": "Ava B.",
+                "rating": 4,
+                "comment": "Great design, but a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Echo Bookshelf",
+        "price": 350,
+        "image": "img/5.png",
+        "description": "With five spacious shelves, the Echo Bookshelf offers ample storage for books and decor items. Its sturdy build and walnut finish add a touch of elegance.",
+        "specifications": {
+            "dimensions": "72\" H x 30\" W x 14\" D",
+            "material": "Walnut Wood",
+            "weight": "40 kg"
+        },
+        "reviews": [
+            {
+                "name": "Sophia M.",
+                "rating": 5,
+                "comment": "Perfect for my book collection and looks fantastic!"
+            },
+            {
+                "name": "Liam F.",
+                "rating": 4,
+                "comment": "Sturdy and stylish, though a bit difficult to assemble."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Zen Bed Frame",
+        "price": 600,
+        "image": "img/6.png",
+        "description": "The Zen Bed Frame combines simplicity and elegance with a low-profile design in solid wood. Perfect for a minimalist bedroom setup.",
+        "specifications": {
+            "dimensions": "12\" H x 78\" W x 82\" D",
+            "material": "Solid Wood",
+            "weight": "70 kg"
+        },
+        "reviews": [
+            {
+                "name": "Noah E.",
+                "rating": 5,
+                "comment": "Amazing quality and easy to assemble. Highly recommended!"
+            },
+            {
+                "name": "Ava B.",
+                "rating": 4,
+                "comment": "Beautiful bed frame, but a bit heavy to move."
+            },
+            {
+                "name": "Ella G.",
+                "rating": 5,
+                "comment": "Sturdy and stylish! Great addition to my bedroom."
+            },
+            {
+                "name": "Jack M.",
+                "rating": 4,
+                "comment": "Simple design, but the wood finish is prone to scratches."
+            }
+        ]
+    }
+]
